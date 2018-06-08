@@ -1,0 +1,29 @@
+{
+  "name": "petroleoapp",
+  "version": "1.0.0",
+  "description": "app del backend del control de maquinaria para el reflujo de petroleo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrayJacketStudios/petroleo.git"
+  },
+  "keywords": [
+    "petroleo",
+    "app",
+    "backend",
+    "datos"
+  ],
+  "author": "Sebastian Cristi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrayJacketStudios/petroleo/issues"
+  },
+  "homepage": "https://github.com/GrayJacketStudios/petroleo#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.1.4"
+  }
+}
